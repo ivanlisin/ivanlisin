@@ -9,3 +9,7 @@
 [blog](https://ivanlisin.github.io)
 
 [bookshelf](https://github.com/ivanlisin/bookshelf)
+
+# Useful links
+
+[hexlet.io nodejs package template](https://github.com/hexlet-boilerplates/nodejs-package)
